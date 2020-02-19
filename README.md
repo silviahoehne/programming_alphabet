@@ -1,0 +1,1 @@
+Dies ist eine Sammlung von Begriffen der Programmierung
