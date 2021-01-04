@@ -10,3 +10,8 @@ Das zweite ist, wenn Sie die Ressourcen eines bestimmten Prozesses erhöhen möc
 
 ### schedule
 In der Informatik im Bereich der Betriebssysteme legt Scheduling fest, welche Prozesse wann und wie viel Prozessorzeit erhalten, im Bereich der Datenbanktechnik wird mit dem Scheduling festgelegt, wie parallele Transaktionen ablaufen müssen, ohne die Konsistenz der Datenbank zu verletzen, siehe auch: Scheduler.
+
+## My first fork
+author: Silvia Höhne
+date: 2021-01-04
+
